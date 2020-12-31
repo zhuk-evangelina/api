@@ -1,6 +1,7 @@
 .git/*
 env/
 venv/
+sent_emails/
 
 __pycache__/
 *.py[cod]
@@ -10,6 +11,7 @@ __pycache__/
 .AppleDouble
 .LSOverride
 .vscode
+.flake8
 
 *.sublime-project
 *.sublime-workspace
@@ -17,3 +19,4 @@ __pycache__/
 media/
 
 db.sqlite3
+import_from_csv_to_db.py
